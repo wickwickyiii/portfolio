@@ -1212,8 +1212,8 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .project {
-  background-size: cover;
-  background-position: center center;
+  background-size: contain;
+  background-position: center;
   background-repeat: no-repeat;
   position: relative;
   height: 300px;
