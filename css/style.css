@@ -422,7 +422,7 @@ figure figcaption {
 #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn {
   font-size: 12px;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   color: #fff;
   padding: 10px 15px !important;
   border: none;
@@ -1209,6 +1209,12 @@ body.offcanvas .colorlib-nav-toggle {
 }
 .work-menu span a.active {
   color: #2c98f0;
+}
+
+#brain {
+  background-size: cover;
+  background-position: top;
+  padding-bottom: 30;
 }
 
 .project {
